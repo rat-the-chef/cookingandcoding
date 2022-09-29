@@ -1,1 +1,21 @@
-lolololololololololol
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>What does it mean to be a rat??? I have found lots of answers </h1>
+    
+
+        <p> Sometime when I am sad I night and I am restraining from posting sad gifs on social media I think to myself
+            what does it mean to live? Do I want to cook all the time? Is there more than just food? I have considered
+            following out my dream of making music. I have always had an interest in the subject, but I have never
+            been able to have someone support me in the process. What if I quit it all and threw it all away? These are
+            the things that I think about at night. If the world had one less chef and one more gangster rapper, would 
+            it be a better place? I think yes.
+        </p>
+</body>
+</html>
